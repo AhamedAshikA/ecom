@@ -1,0 +1,6 @@
+.header-buttons{
+    /* background-color: red; */
+    /* width: 250px; */
+    display: flex;
+    justify-content: space-around;
+}

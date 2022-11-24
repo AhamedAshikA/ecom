@@ -1,0 +1,21 @@
+table{
+    width:800px;
+    
+    border-collapse: collapse;
+    background-color:white;
+}
+td,th{
+    /* width: 400px; */
+    border: 1px solid black;
+    height: 35px;
+    text-align: center;
+}
+td{
+    text-align: center;
+    justify-content: space-around;
+}
+.head{
+    position: sticky;
+    top: 0;
+    background-color: blue;
+}
